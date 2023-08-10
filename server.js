@@ -104,7 +104,7 @@ require("./routes/staff.routes")(app);
 
 // define port the project will run on
 // const PORT = process.env.PORT;
-const PORT = 8086;
+const PORT = 9004;
 
 // Listen to Port
 app.listen(PORT, () => {
